@@ -1,2 +1,8 @@
+<?php
+
 function test()
-{}
+{
+    //asdfasdfsdf
+}
+
+?>
